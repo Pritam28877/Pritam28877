@@ -29,11 +29,11 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- End here -->
  
-- 🔭 &nbsp; ⇢  &nbsp; Self-taught Front- End passionate developer from India 🇮🇳
-- 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript, [Blogs](https://medium.com/@imaaquibali), & building fun experiments on type-level 
+- 🔭 &nbsp; ⇢  &nbsp; Self-taught Dev passionate developer from India 🇮🇳
+- 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript, & building fun experiments on type-level 
 - 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto
-- 🌐&nbsp;  ⇢  &nbsp; Building @[VerSiton](https://www.github.com/versiton/) 
-- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/imaaquibali/imaaquibali/issues)
+- 🌐&nbsp;  ⇢  &nbsp; Building
+- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/Pritam28877/Pritam28877/issues)
  
 
 <!-- End here ... -->
@@ -46,25 +46,25 @@ This profile focusses on new addition about customizing your git with : -
 ###  Connect with me 
 
 <!-- Twitter -->
-<a href="https://twitter.com/imaaquibali">
+<a href="https://twitter.com/PritamD285">
 <img align="left" alt="imaaquibali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
    
 <!-- Medium -->
-<a href ="https://imaaquibali.medium.com/">
-<img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a>
+<!-- <a href ="https://twitter.com/PritamD285">
+<img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a> -->
  
 
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/imaaquibali">
+<a href="https://www.linkedin.com/in/pritam-das-366397223/">
 <img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
 
 <!-- Community (VerSiton) -->
-<a href="https://www.dsc.gg/versiton/">
-<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>
+<!-- <a href="https://www.dsc.gg/versiton/">
+<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>  -->
 
 <!-- Instagram  -->
-<a href="https://instagram.com/imaaquibali">
-<img align="left" alt="imaaquibali | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Follow me on Instagram"/><a>
+<!-- <a href="https://instagram.com/imaaquibali">
+<img align="left" alt="imaaquibali | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Follow me on Instagram"/><a> -->
 
 <br>
 <br>
@@ -95,18 +95,6 @@ This profile focusses on new addition about customizing your git with : -
 
 <!-- Blog Post with dynamically update using GitHub Workflow -->
 
-<!-- Start here -->
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [A complete Beginner’s guide — Web 3.0](https://imaaquibali.medium.com/a-complete-beginners-guide-web-3-0-333ffc0ff3a3?source=rss-ab31787d3f79------2)
-- [All About Full Stack Development- The Complete Guide](https://enlear.academy/all-about-full-stack-development-the-complete-guide-3eab236046d9?source=rss-ab31787d3f79------2)
-- [Top 5 Programming languages to learn in 2022](https://enlear.academy/top-5-programming-languages-to-learn-in-2022-27f5d21ca6bc?source=rss-ab31787d3f79------2)
-- [9 Visual Studio Code Extensions That Make Programming Easier.](https://medium.com/geekculture/9-visual-studio-code-extensions-that-make-programming-easier-6bbdacc15b6?source=rss-ab31787d3f79------2)
-- [What is MLH Local Hack Day : Learn &amp; How to Participate?](https://imaaquibali.medium.com/what-is-mlh-local-hack-day-learn-how-to-participate-daf84fde173c?source=rss-ab31787d3f79------2)
-<!-- BLOG-POST-LIST:END -->
-
-  
-➡️ [more blog posts...](https://imaaquibali.medium.com/)
 
 <!-- End here -->
 
@@ -129,7 +117,7 @@ This profile focusses on new addition about customizing your git with : -
 <details>
   <summary> 📊 &nbsp; <i>My Stats</i></summary>
     
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=imaaquibali&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritam28877&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -140,7 +128,7 @@ This profile focusses on new addition about customizing your git with : -
 <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imaaquibali&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pritam28877&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 </details>
 
@@ -154,11 +142,11 @@ This profile focusses on new addition about customizing your git with : -
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/Susmita-Dey/Sukoon/issues/379) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+<!-- 1. 🗣 Commented on [#379](https://github.com/Susmita-Dey/Sukoon/issues/379) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 2. 🗣 Commented on [#372](https://github.com/Susmita-Dey/Sukoon/issues/372) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 3. 🗣 Commented on [#374](https://github.com/Susmita-Dey/Sukoon/issues/374) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 4. 🗣 Commented on [#365](https://github.com/Susmita-Dey/Sukoon/issues/365) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#334](https://github.com/Susmita-Dey/Sukoon/issues/334) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+5. 🗣 Commented on [#334](https://github.com/Susmita-Dey/Sukoon/issues/334) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)  -->
    <!--END_SECTION:activity-->
 ---
  </details>   
