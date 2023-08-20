@@ -43,7 +43,8 @@
 <p>
 <a href="https://twitter.com/PritamD285" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pritam-das-366397223/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="#" target="_blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-320-80.jpg" alt="medium" height"30" width="40"/></a>
+<a href="#" target="_blank"><img align="center" src="![image](https://github.com/Pritam28877/Pritam28877/assets/92548589/479a36d1-f1a2-4ae9-abb3-726f42f6384b)
+" alt="medium" height"30" width="40"/></a>
 <a href="#" target="_blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord&theme=dark" height="30" width="40" alt="discord"/></a>
 </p>
 
