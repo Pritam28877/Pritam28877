@@ -1,167 +1,54 @@
-<!-- Welcome to my Profile. Don't forget to change the links with your own links. If you found this Readme profile useful don't forget to ⭐ it.
+<div align="center">
+<!-- <img align="center" height="200px" width="400px" src=""> -->
+</div>
+<h1 align="center">Hi, I'm Pritam </h1>
+<h3 align="center">I am a Gamer, Full stack web developer and competitive coder.</h3>
+<div align="center">
+  <p> <img src="https://komarev.com/ghpvc/?username=shivam1317&label=Profile%20views&color=023e8a&style=flat" alt="Pritam Das" /> </p>
+  </div>
+<div align="center">
+  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
+<a href="#" target="_blank" align="center">My Portfolio</a>
+  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
+</div>
 
-This profile focusses on new addition about customizing your git with : -
-- Awesome bio with some cool Preformatted text. 
-- Connect with me,languages & tools icons.
-- Dynamically include your blogs, Tweets, Youtube videos, Recent activity sourcing from the parent website, and update changes using github workflows.
-- Adding git Stats, Streaks to take your profile on the another level.
-- include the song that you are listening in spotify. 
-- Adding some cool giphy. I sure you gonna like them. -->
+-----
+- 🌱 I’m currently learning:- php,typescript, react native
+- 💬 Ask me about:- full stack web development,DSA,cloud computing and web security.
 
-<!-- Awesome bio with some cool Preformatted text.  -->
-<!-- Start here... -->
+## 🛠 My skills include
 
-<!-- <pre align=""  > <b> Hello folks!, Aaquib ALi here... </b>. 🙋🏽‍♂️</pre> -->
+### Languages
 
-<!-- <p align="center"><a href="https://imaaquibali.me"><img width="80%" alt="Hello, I'm Aaquib. I do open source!" src="./assets/gh-readme-header.png" /></a></p>z -->
+![My Skills](https://skills.thijs.gg/icons?i=cpp,html,css,js,ts,golang,python,php,java&theme=dark) 
 
-<pre>Hello Folks! 🧑🏽‍💻</pre>
+### Frameworks and platforms
 
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Never,+really+had+a+type...;i+just+like+the+way...;i+vibe+w/+certain+people+🖤&center=true&size=20">
-  </a>
-</h1>
+![My Skills](https://skills.thijs.gg/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
 
-<!-- Cool Giphy Start here -->
+### Databases
 
-<img align="right" width="90px" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"> 
+![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase,mysql&theme=dark)
 
-<!-- End here -->
- 
-- 🔭 &nbsp; ⇢  &nbsp; Self-taught Dev passionate developer from India 🇮🇳
-- 📋 &nbsp; ⇢  &nbsp;  I love writing  JavaScript, & building fun experiments on type-level 
-- 🤝 &nbsp; ⇢  &nbsp; 2023 Goals: learn about Web3, NFT, Crypto
-- 🌐&nbsp;  ⇢  &nbsp; Building
-- 🙋🏽‍♂️ &nbsp; ⇢  &nbsp; Ask me anything [here](https://github.com/Pritam28877/Pritam28877/issues)
- 
+### Tools
 
-<!-- End here ... -->
+![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
+<img height="50" width="50" src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png"/>
 
-<br>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam28877&theme=black-ice" alt="PritamDas"  /></p>
 
-<!-- Connect with me,languages & tools icons. -->
+## 📬 Get in touch
 
-<!-- Start Here   -->
-###  Connect with me 
+<p>
+<a href="https://twitter.com/PritamD285" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritam-das-366397223/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-320-80.jpg" alt="medium" height"30" width="40"/></a>
+<a href="#" target="_blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord&theme=dark" height="30" width="40" alt="discord"/></a>
+</p>
 
-<!-- Twitter -->
-<a href="https://twitter.com/PritamD285">
-<img align="left" alt="imaaquibali | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" title="Follow me on Twitter" /></a>
-   
-<!-- Medium -->
-<!-- <a href ="https://twitter.com/PritamD285">
-<img align="left" alt="imaaquibali | Medium" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" title="Read my articles on Medium" /></a> -->
- 
+----
 
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/pritam-das-366397223/">
-<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" title="Connect with me on LinkedIn" /></a>
-
-<!-- Community (VerSiton) -->
-<!-- <a href="https://www.dsc.gg/versiton/">
-<img align="left" alt=" imaaquibali | LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" title="Connect with me on LinkedIn" /></a>  -->
-
-<!-- Instagram  -->
-<!-- <a href="https://instagram.com/imaaquibali">
-<img align="left" alt="imaaquibali | Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  title="Follow me on Instagram"/><a> -->
-
-<br>
-<br>
-
-
-### 💻 Languages and Tools
-
-<code><img alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/react/react.png"></code>
-<code><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/c/c.png"></code>
-<code><img alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img alt="Html" width="30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img alt="Css" width="30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img alt="BootStrap" width="30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png"></code>
-<code> <img alt="MySql" width="30px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
-
-<!-- End here -->
-
-<!-- Cool Giphy Start here -->
-
-<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
-  
-<!-- End here -->
-
-<!-- Blog Post with dynamically update using GitHub Workflow -->
-
-
-<!-- End here -->
-
-
-<!-- YouTube Videos with dynamically update using GitHub Workflow -->
-
-<!-- Start here -->
-<!-- ### 📕 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-<!-- End here -->
-
-
-<!-- Adding git Stats, Streaks to take your profile on the another level. -->
-### Some more information 
-
-<!-- GitHub Stats  Start here -->
-
-<details>
-  <summary> 📊 &nbsp; <i>My Stats</i></summary>
-    
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritam28877&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<!-- End here -->
-
-<!-- GitHub Straks  Start here -->
-
-<details>
-  <summary> 📈 &nbsp; <i>My Streak</i></summary>
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pritam28877&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-</details>
-
-<!-- End here -->
-
- <!-- Recent activity using github workflow -->
-
- <!-- Start here -->
-
-<details>
-  <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
-
-   <!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#379](https://github.com/Susmita-Dey/Sukoon/issues/379) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🗣 Commented on [#372](https://github.com/Susmita-Dey/Sukoon/issues/372) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-3. 🗣 Commented on [#374](https://github.com/Susmita-Dey/Sukoon/issues/374) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-4. 🗣 Commented on [#365](https://github.com/Susmita-Dey/Sukoon/issues/365) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. 🗣 Commented on [#334](https://github.com/Susmita-Dey/Sukoon/issues/334) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)  -->
-   <!--END_SECTION:activity-->
----
- </details>   
-
-<!-- End here -->
-
-<!-- Cool Wave content Start here  -->
-
-![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
-
-<!-- end here -->
-
-<!-- Spotify Playing start here -->
-<!-- ### Spotify Playing 🎧 
-
-[![Spotify](https://novatorem-imaaquibali.vercel.app/api/spotify)](https://open.spotify.com/user/31dr5oul5dtf6lonunqs6yvewrlu)  -->
-
-<!-- End here -->
+<p align="center">
+Thanks for visiting 😎🤝
+</p>
