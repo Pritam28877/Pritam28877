@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Pritam </h1>
 <h3 align="center">I am a Gamer, Full stack web developer and competitive coder.</h3>
 <div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=Pritam28877&label=Profile%20views&color=023e8a&style=flat" alt="Pritam Das" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=shivam1317&label=Profile%20views&color=023e8a&style=flat" alt="Pritam Das" /> </p>
   </div>
 <div align="center">
   <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
