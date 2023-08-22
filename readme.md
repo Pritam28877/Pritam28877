@@ -1,5 +1,6 @@
 <div align="center">
-<!-- <img align="center" height="200px" width="400px" src=""> -->
+<img align="center" height="200px" width="400px" src="![image](https://github.com/Pritam28877/Pritam28877/assets/92548589/bc1342fb-2eb2-46cb-a3ae-68d816dd6306)
+">
 </div>
 <h1 align="center">Hi, I'm Pritam </h1>
 <h3 align="center">I am a Gamer, Full stack web developer and competitive coder.</h3>
