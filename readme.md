@@ -32,7 +32,7 @@
 
 ### Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
+
 <img height="50" width="50" src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png"/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pritam28877&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ## 🔥 Streak Stats
@@ -40,7 +40,7 @@
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritam28877&show_icons=true&locale=en&theme=tokyonight" alt="PritamDas"  /></p> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam28877&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PritamDas"  /></p>
 ## 📬 Get in touch
-
+![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
 <p>
 <a href="https://twitter.com/PritamD285" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pritam-das-366397223/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
