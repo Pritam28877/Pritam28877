@@ -33,10 +33,9 @@
 ### Tools
 
 
-<img height="50" width="50" src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pritam28877&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam28877&theme=black-ice" alt="PritamDas"  /></p>
+<p align="center"><img src="[https://github-readme-streak-stats.herokuapp.com/?user=Pritam28877&theme=black-ice](https://github-readme-streak-stats.herokuapp.com?user=Pritam28877&theme=dark&hide_border=true)](https://git.io/streak-stats)" alt="PritamDas"  /></p>
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritam28877&show_icons=true&locale=en&theme=tokyonight" alt="PritamDas"  /></p> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam28877&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PritamDas"  /></p>
 ## 📬 Get in touch
