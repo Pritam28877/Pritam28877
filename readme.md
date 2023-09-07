@@ -35,7 +35,6 @@
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pritam28877&theme=tokyonight)](https://git.io/streak-stats)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam28877&theme=dark&hide_border=true" alt="PritamDas"  /></p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam28877&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PritamDas"  /></p>
 ## 📬 Get in touch
