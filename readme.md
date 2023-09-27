@@ -38,7 +38,8 @@
 <p align="center"><img src="https://streak-stats.demolab.com?user=Pritam28877&theme=tokyonight" alt="PritamDas"  /></p> 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam28877&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="PritamDas"  /></p>
 ## 📬 Get in touch
-![My Skills](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
+
+![My Skills]([https://skills.thijs.gg/icons?i=mongodb,firebase,mysql&theme=dark](https://skills.thijs.gg/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark))
 <p>
 <a href="https://twitter.com/PritamD285" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pritam-das-366397223/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
