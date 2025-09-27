@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <img align="center" height="200px" width="400px" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"> -->
-  <img align="center" height="200px" width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFncDRvZHU0MTV2NW1xang0MzV3eHoxaXk0Z2VwOXQ5aGJ0YjYxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kiBcwEXegBTACmVOnE/giphy.gif">
+  <img align="center" height="200px" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJ2eWFycXF1enZwMXRjOHZkNzJlbGtienNkZXBvOWk2bTFoemkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kiBcwEXegBTACmVOnE/giphy.gif">
 </div>
 <h1 align="center">Hi, I'm Pritam </h1>
 <h3 align="center">I am a Gamer, Full stack web developer and competitive coder.</h3>
